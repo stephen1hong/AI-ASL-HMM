@@ -1,3 +1,5 @@
+This is a collection of mini-projects on NLP 
+
 "# AI-ASL-HMM" 
 
 * Built a system that can recognize words communicated using the American Sign Language (ASL).
